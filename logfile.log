@@ -1,0 +1,56 @@
+2024-05-20 19:36:57,102 INFO  [Log] application opened 
+2024-05-20 19:36:59,237 INFO  [Log] login completed 
+2024-05-20 19:37:00,322 INFO  [Log] logout completed 
+2024-05-20 19:37:01,526 INFO  [Log] application closed 
+2024-05-21 18:18:30,444 INFO  [Log] application opened 
+2024-05-21 18:18:32,565 INFO  [Log] login completed 
+2024-05-21 18:18:33,650 INFO  [Log] logout completed 
+2024-05-21 18:18:34,808 INFO  [Log] application closed 
+2024-05-21 18:19:19,345 INFO  [Log] application opened 
+2024-05-21 18:19:21,474 INFO  [Log] login completed 
+2024-05-21 18:19:22,622 INFO  [Log] logout completed 
+2024-05-21 18:19:23,816 INFO  [Log] application closed 
+2024-05-21 18:19:25,728 INFO  [Log] application opened 
+2024-05-21 18:19:28,341 INFO  [Log] login completed 
+2024-05-21 18:19:30,450 INFO  [Log] entered in to frame 
+2024-05-21 18:19:32,552 INFO  [Log] employee added 
+2024-05-21 18:19:34,564 INFO  [Log] exit from frame 
+2024-05-21 18:19:34,651 INFO  [Log] logout completed 
+2024-05-21 18:19:36,849 INFO  [Log] application closed 
+2024-05-21 18:54:20,116 INFO  [Log] application opened 
+2024-05-21 18:54:21,752 INFO  [Log] login completed 
+2024-05-21 18:54:22,887 INFO  [Log] logout completed 
+2024-05-21 18:54:24,031 INFO  [Log] application closed 
+2024-05-21 18:54:26,226 INFO  [Log] application opened 
+2024-05-21 18:54:28,826 INFO  [Log] login completed 
+2024-05-21 18:54:30,903 INFO  [Log] entered in to frame 
+2024-05-21 18:54:35,653 INFO  [Log] employee added 
+2024-05-21 18:54:37,667 INFO  [Log] exit from frame 
+2024-05-21 18:54:37,819 INFO  [Log] logout completed 
+2024-05-21 18:54:39,996 INFO  [Log] application closed 
+2024-05-21 19:24:22,810 INFO  [Log] application opened 
+2024-05-21 19:24:25,967 INFO  [Log] login completed 
+2024-05-21 19:24:27,090 INFO  [Log] logout completed 
+2024-05-21 19:24:28,276 INFO  [Log] application closed 
+2024-05-21 19:29:29,049 INFO  [Log] application opened 
+2024-05-21 19:29:31,088 INFO  [Log] login completed 
+2024-05-21 19:29:32,190 INFO  [Log] logout completed 
+2024-05-21 19:29:33,346 INFO  [Log] application closed 
+2024-05-21 19:29:35,088 INFO  [Log] application opened 
+2024-05-21 19:29:38,015 INFO  [Log] login completed 
+2024-05-21 19:29:40,090 INFO  [Log] entered in to frame 
+2024-05-21 19:29:44,681 INFO  [Log] employee added 
+2024-05-21 19:29:46,691 INFO  [Log] exit from frame 
+2024-05-21 19:29:46,786 INFO  [Log] logout completed 
+2024-05-21 19:29:48,891 INFO  [Log] application closed 
+2024-05-22 10:59:58,900 INFO  [Log] application opened 
+2024-05-22 11:00:02,737 INFO  [Log] login completed 
+2024-05-22 11:00:04,030 INFO  [Log] logout completed 
+2024-05-22 11:00:06,675 INFO  [Log] application closed 
+2024-05-22 11:00:11,226 INFO  [Log] application opened 
+2024-05-22 11:00:14,085 INFO  [Log] login completed 
+2024-05-22 11:00:16,159 INFO  [Log] entered in to frame 
+2024-05-22 11:00:18,317 INFO  [Log] employee added 
+2024-05-22 11:00:20,323 INFO  [Log] exit from frame 
+2024-05-22 11:00:20,417 INFO  [Log] logout completed 
+2024-05-22 11:00:22,535 INFO  [Log] application closed 
